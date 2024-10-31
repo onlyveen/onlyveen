@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/2c7064a7-eeb0-4ac5-b636-38d624b10ac7)
+
 ## Hi there 👋
 
 - 🔭 I’m currently working @ [AntStack]((https://www.antstack.com/))
